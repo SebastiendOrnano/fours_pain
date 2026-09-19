@@ -1,4 +1,4 @@
-// Dimensions d'une brique
+// Dimensions d'une brique classique
 L = 22;   // longueur (profondeur)
 l = 5;    // largeur (épaisseur radiale)
 h_base = 10.5;  // hauteur de base (suit l'arc)
