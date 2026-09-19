@@ -1,4 +1,4 @@
-// Dimensions d'une brique
+// Dimensions d'une brique classsique
 L = 22;
 l = 5;
 h_base = 10.5;
