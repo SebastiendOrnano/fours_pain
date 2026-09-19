@@ -1,4 +1,4 @@
-// Coupole sur demi-ellipse : x^2/a^2 + z^2/b^2 = 1
+// Coupole sur demi-ellipse nnn : x^2/a^2 + z^2/b^2 = 1
 
 L = 22;       // longueur (profondeur)
 l = 5;        // épaisseur radiale
